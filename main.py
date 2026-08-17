@@ -9,8 +9,6 @@ Original file is located at
 # Phase 1
 """
 
-!pip install -q yfinance
-
 import yfinance as yf
 import pandas as pd
 import numpy as np
